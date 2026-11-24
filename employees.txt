@@ -1,0 +1,2 @@
+E103|Sahil Khan|CSE|500000
+E102|Rimjhim Gupta|CSe|50000
